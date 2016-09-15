@@ -1,2 +1,0 @@
-# stupidity
-Code for stupids
